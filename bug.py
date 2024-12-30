@@ -1,0 +1,1 @@
+print("Esse codigo resolve o bug")
